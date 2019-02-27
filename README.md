@@ -1,5 +1,12 @@
 # Benzene-Prediction
 
+Abstract
+
+Despite dramatic progress cleaning the air since 1970, air pollution in the United States continues to harm people’s health and environment. However, air pollution can be harmful even when it is not visible. Recent scientific studies have shown that some pollutants can harm public health and welfare even at low levels. As per Department of Health and Human Services (DHHS) has determined that Benzene causes cancer in humans. Long-term exposure to high levels of Benzene in the air can cause leukemia, which is produced naturally by volcanoes, forest fires, and is a natural part of crude oil and gasoline. We predicted Benzene level over the year and observed wildfire trend in different regions of United States by leveraging different statistical models and determined the best model for predictive analysis.
+
+Keywords: Benzene, cancer, wildfire, Random Forest, Decision Trees, Linear Regression
+
+
 Air pollution occurs when harmful or excessive quantities of substances including gases, particulates and biological molecules are introduced into Earth’s atmosphere. It may cause diseases, allergies and death of humans; it may also cause harm to other living organisms such as animals and food crops and may damage the natural or built environment. Human activity and natural processes can both generate air pollution. Indoor air pollution and poor urban air quality are listed as two of the world’s worst toxic pollution problems in the 2008 Blacksmith Institute World’s Worst Polluted Places report. According to the 2014 World Health Organization report, air pollution in 2012 caused the deaths of around 7 million people worldwide, an estimate roughly echoed by one from the International Energy Agency.
 
 The United States Environmental Protection Agency (U. S. EPA) classifies benzene as “carcinogenic to humans. Long-term exposure to high levels of benzene can cause leukemia and cancers of the blood- forming organs (bone marrow, lymph nodes, and spleen). Benzene is a widely used chemical formed from both natural processes and human activities. Benzene is produced naturally by volcanoes and forest fires and is a natural part of crude oil, gasoline and tobacco smoke. Industries utilize benzene to make plastics, resins, synthetic fibers, rubber lubricants, dyes, detergents, drugs and pesticides.
